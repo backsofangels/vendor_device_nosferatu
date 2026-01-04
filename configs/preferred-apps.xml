@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<preferred-activities>
+    <item name="com.nosferatu.launcher/.NosferatuLauncher" match="0x00600000">
+        <set name="com.nosferatu.launcher/.NosferatuLauncher" />
+        <filter>
+            <action name="android.intent.action.MAIN" />
+            <category name="android.intent.category.HOME" />
+            <category name="android.intent.category.DEFAULT" />
+        </filter>
+    </item>
+</preferred-activities>
