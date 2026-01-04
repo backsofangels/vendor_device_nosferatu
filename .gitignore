@@ -1,0 +1,19 @@
+# temporary folders
+bin/
+gen/
+out/
+
+# System stuff
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Backup/swap
+*.swp
+*~
+
+# Sign files
+*.keystore
+*.jks
